@@ -1,0 +1,14 @@
+Data of figshare
+
+
+Download the dataset from the two repositories (figshare, Kaggle)
+Upload the data to google drive (eg zip file got from Figshare
+Extract the data to new dataset
+
+
+Dataset of Kaggle
+Load the dataset to jupyter and use the code braintumor.
+After running braintumor.py you got a label.py save that file and upload the same folder of newdatset.
+ ------------------------------------------------------------------------------------------------                                
+                                 
+Then start  programing from projectbrain_tumor(preprocessing) , Then modeling 
